@@ -74,4 +74,4 @@ This project helped in understanding CNN, RNN and GAN models practically.
 ## Author
 
 Susan Riona D'Souza
-B.Tech – Information Science Engineering
+
